@@ -23,15 +23,6 @@ frontend:
 3. restart home-assistant
 4. select the theme in your user's profile (bottom left)
 
-**Optional**: I recommend installing [Custom Header](https://github.com/maykar/custom-header)
-
-#### HACS
-
-1. Go to the Community Store.
-2. Search for `Dark Teal`.
-3. Navigate to `Dark Teal`.
-4. Press Install.
-
 ## Other similar Themes
 
 - [Clear Theme Dark](https://github.com/naofireblade/clear-theme-dark) by @naofireblade

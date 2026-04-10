@@ -1,4 +1,4 @@
-dark_teal:
+dark_teal_rounded:
   # Fonts
   primary-font-family: "Raleway,sans-serif"
   paper-font-common-base_-_font-family: "var(--primary-font-family)"

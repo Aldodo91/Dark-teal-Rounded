@@ -6,6 +6,8 @@ Dark Theme with Teal Colors for [Home Assistant](https://www.home-assistant.io) 
 
 ## Screenshot
 
+![](https://raw.githubusercontent.com/Aldodo91/Dark-teal-Rounded/refs/heads/main/screen.png)
+
 ## Installation
 
 #### Manual Installation

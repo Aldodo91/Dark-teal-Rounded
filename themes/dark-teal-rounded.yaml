@@ -19,6 +19,7 @@ dark_teal_rounded:
   text-medium-color: "#80828A"
   disabled-text-color: "#626569"
   primary-color: "var(--accent-color)"
+  ha-tooltip-text-color: "#000"
 
   # Text Fields an Dropdown
   mdc-text-field-fill-color: "var(--ha-card-background)"

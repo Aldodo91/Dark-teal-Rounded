@@ -19,7 +19,7 @@ dark_teal_rounded:
   text-medium-color: "#80828A"
   disabled-text-color: "#626569"
   primary-color: "var(--accent-color)"
-  ha-tooltip-text-color: "#000"
+  ha-tooltip-background-color: "#000000"
 
   # Text Fields an Dropdown
   mdc-text-field-fill-color: "var(--ha-card-background)"
@@ -58,13 +58,13 @@ dark_teal_rounded:
   ha-card-box-shadow: "0px 0px 0px 0px"
   ha-card-border-radius: "16px"
   border-color: "#333333"
-
+  
   # Icons
   paper-item-icon-color: "var(--text-color)"
   paper-item-icon-active-color: "var(--accent-color)"
   state-icon-color: "#fff"
   #ha-color-fill-primary-normal-resting: transparent
-
+  
   # Left Menu
   paper-listbox-background-color: "rgba(69, 74, 83, 1)"
   sidebar-background-color: "var(--paper-listbox-background-color)"
